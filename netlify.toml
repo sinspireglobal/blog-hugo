@@ -1,14 +1,15 @@
+# netlify.toml
 
 [build]
-  # The build command to run, here it’s 'hugo' to build the Hugo site
-  command = "hugo"
+  # Install Hugo first before building the site
+  command = "npm install -g hugo && hugo"
   
   # The directory where the built site will be stored
   publish = "public"
 
 [build.environment]
   # Specify the Hugo version if needed
-
+  HUGO_VERSION = "0.88.1"
 
 [context.production.environment]
   # Example: Set other environment variables for production if needed
