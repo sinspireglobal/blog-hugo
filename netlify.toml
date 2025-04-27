@@ -1,0 +1,19 @@
+
+[build]
+  # The build command to run, here it’s 'hugo' to build the Hugo site
+  command = "hugo"
+  
+  # The directory where the built site will be stored
+  publish = "public"
+
+[build.environment]
+  # Specify the Hugo version if needed
+
+
+[context.production.environment]
+  # Example: Set other environment variables for production if needed
+  HUGO_ENV = "production"
+  
+[context.deploy-preview.environment]
+  # Set up environment variables for deploy preview if needed
+  HUGO_ENV = "preview"
