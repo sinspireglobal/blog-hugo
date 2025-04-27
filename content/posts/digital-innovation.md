@@ -1,15 +1,16 @@
 ---
 title: "Digital Innovation: Driving Sustainable Change at S-Inspire Global"
 date: 2024-04-27
-description: "Exploring how S-Inspire Global leverages digital technologies to create sustainable solutions for business and society."
-image: "/images/digital-innovation.jpg"
+description: Exploring how S-Inspire Global leverages digital technologies to
+  create sustainable solutions for business and society.
+image: ghibli_amarjith_photo.png
 categories:
   - Technology
   - Innovation
   - Business
 tags:
-  - digital transformation
   - AI
+  - digital transformation
   - sustainability
   - tech solutions
 draft: false
