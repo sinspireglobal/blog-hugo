@@ -19,11 +19,7 @@ draft: false
 
 At S-Inspire Global, digital innovation forms the cornerstone of our approach to solving complex business and social challenges. We believe in harnessing the power of technology to create sustainable, scalable solutions that benefit both organizations and communities.
 
-
-
-
-
-![image digital](ghibli_amarjith_photo.png "digital image")
+![image digital](ghibli_amarjith_photo.png)
 
 ### Our Digital Innovation Pillars
 
